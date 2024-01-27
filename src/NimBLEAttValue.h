@@ -8,6 +8,7 @@
 
 #ifndef MAIN_NIMBLEATTVALUE_H_
 #define MAIN_NIMBLEATTVALUE_H_
+#include <ctime>
 #include "nimconfig.h"
 #if defined(CONFIG_BT_ENABLED)
 
